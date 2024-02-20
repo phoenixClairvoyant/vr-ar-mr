@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/f1_watchalong.unity
+    guid: c1f5af832561d44cf94eddb9f12ae6d7
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: de17abac68a334999b0138137a62416c, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: c5b900190934445229c771e19f01b9e3, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 6ee8b2fa58821418fb4d7f47142a27d0, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c665e83056df9444a94474f1c37764e9, type: 2}
